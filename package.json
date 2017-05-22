@@ -1,0 +1,23 @@
+{
+  "name": "react-native-jump-setting",
+  "version": "0.0.1",
+  "description": "an system alert when app need a camera authorize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kinsuft1988/react-native-jump-setting.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-jump-setting"
+  ],
+  "author": "kinsuft1988",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kinsuft1988/react-native-jump-setting/issues"
+  },
+  "homepage": "https://github.com/kinsuft1988/react-native-jump-setting#readme"
+}
